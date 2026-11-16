@@ -11,4 +11,4 @@
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ### Ambiente
-[![Ambiente](https://skillicons.dev/icons?i=linux,arch,neovim,obsidian,kde&theme=dark)](https://skillicons.dev)<img src="./CachyOS.svg" alt="CachyOS" width="48" height="48" />
+[![Ambiente](https://skillicons.dev/icons?i=linux,arch,neovim,obsidian,kde&theme=dark)]<img src="./CachyOS.svg" alt="CachyOS" width="48" height="48" />
