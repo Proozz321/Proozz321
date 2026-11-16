@@ -8,10 +8,10 @@ Pão é bom 🍞🍷(gosto mesmo)
 
 ## Stack Atual
 [![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
-[![.NET](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
 [![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 **C#** e **.NET** uso desde 2025, com períodos de estudo mais intensivo. Estudei os fundamentos de C no primeiro ano do curso, mexo com MySQL e SQL frequentemente, e conheço o básico de PHP mas tenho interesse em aprofundar mais, embora não seja um foco.
 
