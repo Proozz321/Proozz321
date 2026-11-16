@@ -1,5 +1,5 @@
 ### Linguagens
-[![Linguagens](https://skillicons.dev/icons?i=cs,php,rust&theme=dark)](https://skillicons.dev)<img src="https://skillicons.dev/icons?i=arch,neovim,nix" /> <img src="./CachyOS.svg" alt="CachyOS" width="48" height="48" />
+[![Linguagens](https://skillicons.dev/icons?i=cs,php,rust&theme=dark)](https://skillicons.dev)<img src="./CachyOS.svg" alt="CachyOS" width="48" height="48" />
 
 ### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
