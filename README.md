@@ -29,6 +29,7 @@ Em **C#**, estou em async/await, ASP.NET Core Web API, EF Core e autenticação.
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![Arch](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 <img src="./CachyOS.svg" alt="CachyOS" width="48" height="48" />
+[![vim](https://skillicons.dev/icons?i=vim&theme=dark)](https://skillicons.dev)
 [![Neovim](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 
