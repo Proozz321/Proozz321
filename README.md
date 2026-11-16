@@ -1,6 +1,6 @@
 # Sobre mim
 
-Desenvolvedor back-end focado em **C# e .NET**. Gosto de construir projetos para consolidar o que estudo e de entender por que uma coisa funciona antes de seguir em frente mesmo em projetos simples no terminal.
+Desenvolvedor back-end focado em **C#** e **.NET**. Gosto de construir projetos para consolidar o que estudo e de entender por que uma coisa funciona antes de seguir em frente mesmo em projetos simples no terminal.
 
 18 anos.
 
