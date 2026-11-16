@@ -1,31 +1,31 @@
 # Sobre mim
 
 Desenvolvedor focado em backend, com base sólida no ecossistema **.NET (C#)**.
-Atualmente, busco consolidar esse conhecimento através de projetos práticos.
-Utilizo **Linux (Arch/CachyOS)** como ambiente de desenvolvimento diário.
+Consolido o conhecimento através de projetos práticos. Uso **Linux (Arch/CachyOS)** como ambiente diário.
 
 ## Stack principal
 
 [![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 
-- **C#/.NET:** contacto regular desde 2025, com períodos de prática intensiva. POO, genéricos, LINQ básico, `IDisposable`/`using`, estrutura em camadas, debug com stack trace e repro mínimo.
+- **C#/.NET:** contacto regular desde 2025, com períodos de prática intensiva. POO, genéricos, LINQ, `IDisposable`, estrutura em camadas, debug com stack trace.
 - **SQL:** modelação e consultas (MySQL via phpMyAdmin, em curso).
-- **Fundamentos:** C — memória, ponteiros; base para entender o que o C# abstrai.
-- **Conhecimentos básicos:** PHP (contacto inicial, não aprofundado).
+- **C:** fundamentos — memória, ponteiros. Base para entender o que o C# abstrai.
+- **Rust:** em aprofundamento — ownership, borrowing. Interesse por performance e relevância crescente da linguagem.
+- **PHP:** conhecimento básico (contacto inicial).
 
-## Em aprendizagem ativa
+## Em aprendizagem
 
-- **async/await:** noções básicas (`Task`, `await`, exceções), aplicadas em 1–2 exercícios.
-- **ASP.NET Core Web API**, **EF Core** e **autenticação** — a construir a camada backend.
-- **Docker** (padronização de ambientes).
-- **Rust** (ownership, borrowing) — curiosidade paralela, sem pressa.
+- **async/await** — noções básicas, aplicadas em 1–2 exercícios.
+- **ASP.NET Core Web API + EF Core + autenticação** — a construir a camada backend.
+- **Docker** — padronização de ambientes.
 
-## Projetos em destaque
+## Projetos
 
-- **MnistApp:** classificação de dígitos com ML.NET (pipeline com treino, avaliação e testes).
-- **OrderingSystem:** console app onde explorei DI, MediatR e Strategy; refatorado para SOLID.
+- **MnistApp** — classificação de dígitos com ML.NET (pipeline com treino, avaliação e testes).
+- **OrderingSystem** — console app com DI, MediatR e Strategy; refatorado para SOLID.
 
 ## Ambiente & Ferramentas
 
@@ -39,9 +39,9 @@ Utilizo **Linux (Arch/CachyOS)** como ambiente de desenvolvimento diário.
 [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 [![Obsidian](https://skillicons.dev/icons?i=obsidian&theme=dark)](https://skillicons.dev)
 
-Fluxo de trabalho em terminal. **Neovim** como editor principal (ambiente geral); **Vim** com configuração própria (plugins, LSP, popups) como ambiente dedicado a Rust. **VS Code** pontual em projetos web. **Obsidian** para notas. **Git** com commits convencionais.
+Terminal como fluxo principal. **Neovim** (geral) e **Vim** configurado para Rust. **VS Code** pontual em web. **Obsidian** para notas.
 
 ## Próximo passo
 
-Construir um projeto backend completo (Web API + EF Core + auth) para portfólio.
+Projeto backend completo (Web API + EF Core + auth) para portfólio.
 Aberto a estágios, FCT e conversas sobre backend C#/.NET.
